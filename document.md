@@ -44,4 +44,4 @@
 
 => -u origin : chỉ cần sử dụng ở lần git push đầu tiền => từ lần thứ 2 chỉ cần gõ git push
 
-// demo edit
+## git clone (Dùng để clone 1 source code từ remote repository về máy)
