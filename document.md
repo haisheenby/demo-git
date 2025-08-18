@@ -43,3 +43,5 @@
 ## git push -u origin main (Dùng để đẩy code từ local repository lên remote repository)
 
 => -u origin : chỉ cần sử dụng ở lần git push đầu tiền => từ lần thứ 2 chỉ cần gõ git push
+
+// demo edit
