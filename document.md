@@ -45,3 +45,17 @@
 => -u origin : chỉ cần sử dụng ở lần git push đầu tiền => từ lần thứ 2 chỉ cần gõ git push
 
 ## git clone (Dùng để clone 1 source code từ remote repository về máy)
+
+## git pull (Dùng để lấy code mới nhất từ remote repository)
+
+## git branch (liệt kê các nhánh hiện tại)
+
+## git switch -c <tên nhánh> (tạo 1 nhánh mới và chuyển qua nhánh đó)
+
+## git checkout -b <tên nhánh>
+
+## git merge
+
+-   main: nhánh cho code ở production
+-   staging: nhánh sử dụng nội bộ cho việc kiểm thử (test)
+-   dev: nhánh sử dụng nội bộ kiểm thử
