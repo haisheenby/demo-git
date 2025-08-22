@@ -48,9 +48,9 @@
 
 ## git pull (Dùng để lấy code mới nhất từ remote repository)
 
-## git branch
+## git branch (liệt kê các nhánh hiện tại)
 
-## git switch -b <tên nhánh>
+## git switch -c <tên nhánh> (tạo 1 nhánh mới và chuyển qua nhánh đó)
 
 ## git checkout -b <tên nhánh>
 
