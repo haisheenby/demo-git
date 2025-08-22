@@ -45,3 +45,13 @@
 => -u origin : chỉ cần sử dụng ở lần git push đầu tiền => từ lần thứ 2 chỉ cần gõ git push
 
 ## git clone (Dùng để clone 1 source code từ remote repository về máy)
+
+## git pull (Dùng để lấy code mới nhất từ remote repository)
+
+## git branch
+
+## git switch -b <tên nhánh>
+
+## git checkout -b <tên nhánh>
+
+## git merge
