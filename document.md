@@ -59,3 +59,5 @@
 -   main: nhánh cho code ở production
 -   staging: nhánh sử dụng nội bộ cho việc kiểm thử (test)
 -   dev: nhánh sử dụng nội bộ kiểm thử
+
+// branch feature/b
